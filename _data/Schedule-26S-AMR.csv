@@ -1,0 +1,32 @@
+﻿Week,Mth,Date,Day,Module,Topic,Slides,Reading,Quizzes,Projects
+1,Jan,13,Tue,,Introduction,L1_Introduction.pdf,PR 1,,
+1,Jan,15,Thu,Swim,"Intro to Robotics, State Estimation, Probability Basics",,,,P1: Underwater Robot Localization
+2,Jan ,20,Tue,Swim,"Coordinate Transformations (SE(2), SE(3)); Motion Models (Kinematics)",,,,
+2,Jan,22,Thu,Swim,"Sensor Models: IMU (Bias, Noise), Range Sensors",,,,
+3,Jan,27,Tue,Swim,"Filtering Foundations: Bayes Filter, Kalman Filter (KF), Extended KF (EKF)",,,,
+3,Jan,29,Thu,Swim,Invariant Extended Kalman Filter (IEKF); Basic Trajectory Tracking Control,,,Quiz 1,
+4,Feb,3,Tue,Walk,Robot Kinematics: Forward and Inverse Kinematics (Legged Robots),,,,P2: Legged Robot Kinematic Estimation & MPC
+4,Feb,5,Thu,Walk,Robot Dynamics,,,,
+5,Feb,10,Tue,Walk,Introduction to Factor Graphs & Non-linear Least Squares Optimization,,,,
+5,Feb,12,Thu,Walk,IMU Preintegration: Theory and Factor Formulation,,,,
+6,Feb,17,Tue,Walk,Factor Graphs for Legged Robot State Estimation (Kinematics + IMU Factors),,,Quiz 2,
+6,Feb,19,Thu,Walk,Model Predictive Control (MPC): Predictive Sampling Methods,,,,
+7,Feb,24,Tue,Walk,MPC: Optimization Methods,,,,
+7,Feb,26,Thu,Drive,Wheeled Mobile Robots: Differential Drive Kinematics & Odometry,,,,P3: Single Robot Pose SLAM & Maze Exploration
+8,Mar,3,Tue,Drive,"Camera Geometry: Pinhole Model, Calibration, Image Rectification",,,,
+8,Mar,5,Thu,Drive,"Homography; Creating ""Scans"" from Overhead/Rectified Views",,,,
+9,Mar,10,Tue,Drive,"2D Scan Matching (e.g., ICP for point sets); Loop Closure Detection",,,,
+9,Mar,12,Thu,Drive,Pose Graph SLAM Formulation; Frontier-Based Exploration Algorithms,,,Quiz 3,
+10,Mar,17,Tue,Fly,3D Point Cloud Registration (ICP): Variants (Point-to-Plane),,,,
+10,Mar,19,Thu,Fly,Integrating IMU Preintegration Factors into Pose SLAM,,,,
+11,Mar,24,Tue,,Spring Break,-,,,P4: LiDAR-Inertial Odometry (LIO)
+11,Mar,26,Thu,,Spring Break,,,,
+12,Mar,31,Tue,Fly,LiDAR Odometry and Mapping (LOAM) Principles,,,,
+12,Apr,2,Thu,Fly,Tightly-Coupled LIO Formulation using Factor Graphs,,,,
+13,Apr,7,Tue,Fly,Motion Distortion & LiDAR Scan Deskewing Techniques,,,,
+13,Apr,9,Thu,Fly,Continuous-Time SLAM (CT-SLAM) Concepts; Course Review & Future Directions,,,Quiz 4,
+14,Apr,14,Tue,Team,Advanced Factor Graphs,,,,P5: Multi-Robot Pose SLAM with IMU
+14,Apr,16,Thu,Team,"Robust Kernels, Optimization Details",,,,
+15,Apr,21,Thu,Team,Multi-Robot SLAM: Range Factors between Robots,,,,
+15,Apr,23,Tue,Team,"Data Association Challenges in SLAM (Loop Closures, Multi-Robot)",,,,
+16,Apr,28,Tue,Team,Multi-Robot Systems: Architectures & Basic Coordination Planning,,,Quiz 5,
