@@ -13,4 +13,5 @@ title: Resources
 * [Gradescope]
 * [Canvas]
 * [Georgia Tech Academic Honor Code](https://policylibrary.gatech.edu/student-life/academic-honor-code)
-* [ADAPTS office](https://www.adapts.gatech.edu)
+* [Office of Disability Services](https://disabilityservices.gatech.edu/)
+
