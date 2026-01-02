@@ -27,12 +27,15 @@ baseurl: "/26S-AMR" # the subpath of your site, e.g. /blog
 # logo: favicon.png
 # show_downloads: "true"
 
+
+# Set index.md as the start page
 header_pages:
-  - index.html
+  - index.md
   - resources.md
   - syllabus.md
   - projects.md
   - schedule.md
+
 
 # Build settings
 # markdown: kramdown

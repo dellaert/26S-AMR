@@ -6,9 +6,7 @@ title: Syllabus
 ## Syllabus
 
 ### Description
-Mobile robots—ground vehicles, legged robots, underwater vehicles, drones, and space robots—are increasingly prevalent across diverse domains.  
-This course provides a comprehensive introduction to the mathematical foundations of robot mobility, emphasizing optimization, estimation, and control.  
-Students will also gain hands-on experience with multiple types of mobile robots.
+Mobile robots—ground vehicles, legged robots, underwater vehicles, drones, and space robots—are increasingly prevalent across diverse domains.  This course provides a comprehensive introduction to the mathematical foundations of robot mobility, emphasizing optimization, estimation, and control.  Students will also gain hands-on experience with multiple types of mobile robots.
 
 ## Course Goals and Learning Outcomes
 Upon successful completion, you will be able to:
@@ -61,4 +59,4 @@ Use Piazza to ask questions and seek clarifications. If you have a very specific
 The TA office hours will be announced very soon, along with the location, in a pinned post on Piazza. 
 
 ### Acknowledgements
-The materials from this class rely significantly on slides prepared by other instructors. Each slide set and assignment contains acknowledgements. Feel free to use these slides for academic or research purposes, but please maintain all acknowledgements.
+The materials from this class might rely on slides prepared by other instructors. Each slide set and assignment contains acknowledgements. Feel free to use these slides for academic or research purposes, but please maintain all acknowledgements.
