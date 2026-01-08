@@ -28,8 +28,19 @@ For everyone:
 The course requires access to a computer that can run Webots. A GPU card will make things faster and easier but a workaround might be available.  All programming assignments will be completed in Python.
 
 ### Grading
+
+This class will be partially flipped in the sense that I will teach theory in the beginning of class and then we will immediately put it in practice in the second half of the class. That activity is going to be team-based, where teams are created randomly for each of the five sections in the class: underwater, walking, driving, flying, multi-robot.
+Attendance and in-class participation is mandatory and will count for a large part of your grade, 25%. 
+
+In-class participation will serve to build a foundation for your project contributions, which will come in two parts. Individual contributions are code deliverables and count for 5% per project, totaling 25%. Each project will also have a team-based component that explores machine learning in the context of the assignment and also counts for 5% for another 25% total. There will be no code deliverable here, only literature review and a proposal.
+
+Finally, we will have in-class quizzes that, again, will count for 5% each. There is no final or midterm. 
+
+In summary:
+- **25%** In-class participation.
+- **25%** Projects - Individual contributions. 
+- **25%** Projects - Team component.
 - **25%** Quizzes  
-- **75%** Labs  
 
 ### Academic Integrity
 Academic dishonesty will not be tolerated. This includes cheating, lying about course matters, plagiarism, or helping others commit a violation of the Honor Code. Plagiarism includes reproducing the words of others without both the use of quotation marks and citation. Students are reminded of the obligations and expectations associated with the Georgia Tech Academic Honor Code and Student Code of Conduct, available [here](https://policylibrary.gatech.edu/student-life/academic-honor-code). 
